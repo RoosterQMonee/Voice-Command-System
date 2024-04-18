@@ -1,0 +1,6 @@
+colorama
+pyttsx3
+spacy
+wikipedia
+pywhatkit
+youtube-search-python
